@@ -294,6 +294,7 @@ img {
 	}
 	.sideBySideCols .leftCol-s {
 		float: left;
+    width: 90px;
 		margin-right: 0.8333em;
 	}
 	.sideBySideCols .rightCol {
@@ -417,6 +418,7 @@ img {
 
 	.sideBySideCols .leftCol-s1 {
 		float: left;
+    width: 110px;
 		margin-right: 0.8333em;
 	}
 }
@@ -537,6 +539,7 @@ img {
 
 	.sideBySideCols .leftCol-s2 {
 		float: left;
+    width: 150px;
 		margin-right: 0.8333em;
 	}
 }
@@ -656,6 +659,7 @@ img {
 
 	.sideBySideCols .leftCol-s3 {
 		float: left;
+    width: 160px;
 		margin-right: 0.8333em;
 	}
 }
@@ -767,6 +771,7 @@ img {
 
 	.sideBySideCols .leftCol-m {
 		float: left;
+    width: 180px;
 		margin-right: 0.8333em;
 	}
 
@@ -887,6 +892,12 @@ img {
   .blgr-m2-12 > li:nth-of-type(12n+1) {
     clear: both;
   }
+
+	.sideBySideCols .leftCol-m2 {
+		float: left;
+    width: 256px;
+		margin-right: 0.8333em;
+	}
 
   .m2-left {
     float: none;
@@ -1010,6 +1021,7 @@ img {
 
 	.sideBySideCols .leftCol-l {
 		float: left;
+    width: 360px;
 		margin-right: 0.8333em;
 	}
 
@@ -1130,6 +1142,7 @@ img {
 
 	.sideBySideCols .leftCol-xl {
 		float: left;
+    width: 480px;
 		margin-right: 0.8333em;
 	}
 
@@ -1141,4 +1154,3 @@ img {
  ********************************************************************************************/
 @media only screen and (min-width: 120.0em) {
 }
-
